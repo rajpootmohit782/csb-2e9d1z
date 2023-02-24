@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rajpootmohit782.github.io/csb-2e9d1z/static/css/main.82aa2f9b.chunk.css",
+    "main.js": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/main.15c49701.chunk.js",
+    "main.js.map": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/main.15c49701.chunk.js.map",
+    "runtime-main.js": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/runtime-main.7c42c757.js",
+    "runtime-main.js.map": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/runtime-main.7c42c757.js.map",
+    "static/js/2.073758d3.chunk.js": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/2.073758d3.chunk.js",
+    "static/js/2.073758d3.chunk.js.map": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/2.073758d3.chunk.js.map",
+    "index.html": "https://rajpootmohit782.github.io/csb-2e9d1z/index.html",
+    "static/css/main.82aa2f9b.chunk.css.map": "https://rajpootmohit782.github.io/csb-2e9d1z/static/css/main.82aa2f9b.chunk.css.map",
+    "static/js/2.073758d3.chunk.js.LICENSE.txt": "https://rajpootmohit782.github.io/csb-2e9d1z/static/js/2.073758d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c42c757.js",
+    "static/js/2.073758d3.chunk.js",
+    "static/css/main.82aa2f9b.chunk.css",
+    "static/js/main.15c49701.chunk.js"
+  ]
+}
